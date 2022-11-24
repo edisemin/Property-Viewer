@@ -1,0 +1,15 @@
+
+.separator {
+    /* -fx-padding: 0px; */
+    /* -fx-border-insets: 0px; */
+    /* -fx-border-width: 1px; */
+    /* -fx-border-color: black; */
+    /* -fx-border-style: solid; */
+    -fx-background-color: null;
+}
+
+.line {
+    -fx-border-width: 0.5px;
+    -fx-border-insets: 0px;
+    -fx-border-color: rgb(63, 63, 63);
+}
